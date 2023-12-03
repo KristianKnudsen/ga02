@@ -1,7 +1,5 @@
 
 # Running Graded assignment 02
- ![table of versions](https://imgur.com/a/dGGF6Ot.png)
-
 
 ## Setup
 The application should work out of the box provided you you have the necessary requirements in your enviorment.
