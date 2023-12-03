@@ -1,7 +1,0 @@
-__pycache__/
-models_1/
-virtual-env/
-virtual-env-gpu/
-models/*/*.h5
-images/*
-images_old/*
