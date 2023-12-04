@@ -1,6 +1,12 @@
 
 # Running Graded assignment 02
 
+Presentation:
+https://drive.google.com/file/d/10akyDc_hAbB6agOXbj8xr11BFsKtt4pv/view?usp=sharing
+
+The final model is in the models folder as v21
+it is iteration 2000000.
+
 ## Setup
 The application should work out of the box provided you you have the necessary requirements in your enviorment.
 
